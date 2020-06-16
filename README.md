@@ -43,25 +43,25 @@ This is **NOT** meant to be a place for:
 - [SQUARE](https://square.github.io/)
 - [GILT](http://code.gilt.com/)
 
-### OSS Events & Conferences
+## OSS Events & Conferences
 
 - [Linux Foundation Events](https://events.linuxfoundation.org/)
 - [Fossdem](https://fosdem.org/)
 - [LWN.net Calendar](https://lwn.net/Calendar/)
 
-### OSS Internships & Competitions
+## OSS Internships & Competitions
 
 - [OSS Internships Collection by Heroku](https://opensourceinternships.herokuapp.com/)
 
-### OSS Funding
+## OSS Funding
 
 - [Awesome OSS Funding by Sustainers](https://github.com/sustainers/awesome-oss-funding)
 
-### OSS Education
+## OSS Education
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
 
-### OSS Governance Models
+## OSS Governance Models
 
 - [Containerd Governance](https://github.com/containerd/project/blob/master/GOVERNANCE.md)
 - [CoreDNS Governance](https://github.com/coredns/coredns/blob/master/GOVERNANCE.md)
@@ -72,7 +72,7 @@ This is **NOT** meant to be a place for:
 - [Apache Governance](https://www.apache.org/theapacheway/)
 - [Eclipse Governance](https://www.eclipse.org/projects/dev_process/)
 
-### OSS Licenses
+## OSS Licenses
 
 - [MIT License](https://opensource.org/licenses/MIT)
 - [Apache V2](https://opensource.org/licenses/Apache-2.0)
@@ -86,7 +86,7 @@ This is **NOT** meant to be a place for:
 - [CDDL](https://opensource.org/licenses/CDDL-1.0)
 - [Other Licenses](https://opensource.org/licenses/alphabetical)
 
-### Templates
+## Templates
 
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 - [Keep A Changelog](https://keepachangelog.com/)
