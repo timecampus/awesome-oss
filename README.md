@@ -5,6 +5,7 @@ This repository acts as a curated list of Open Source Foundations, Organizations
 Open Source is awesome and that is why this repository is awesome!
 
 This is **NOT** meant to be a place for:
+
 - Listing Individual Open Source Projects
 - Listing Individual Contributors
 
@@ -101,3 +102,9 @@ This is **NOT** meant to be a place for:
 ## License
 
 [Apache v2.0 License](LICENSE)
+
+## Contributors
+
+[See the list of Contributors](CONTRIBUTORS.md)
+
+# Made with :heart: by [Timecampus](https://github.com/timecampus)
